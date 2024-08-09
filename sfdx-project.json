@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "pmtScratch",
+  "name": "mmnScratch",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
