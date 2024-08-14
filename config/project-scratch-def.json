@@ -1,6 +1,9 @@
 {
   "orgName": "etienne company",
   "edition": "Developer",
+  "language": "en_US",
+  "username": "uatScratch@gstRh.dev",
+  "adminEmail": "freedevsalesforce@gmail.com",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {
